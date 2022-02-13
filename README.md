@@ -1,2 +1,2 @@
 # go-http
-http相关封装
+package http （fasthttp、http、mock）
